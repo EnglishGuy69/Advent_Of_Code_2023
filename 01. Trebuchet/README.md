@@ -1,0 +1,1 @@
+Puzzle 1 took 50 minutes to complete both parts
